@@ -1,7 +1,7 @@
 # Korean ASR Inverse Text Normalization using QLoRA Fine-Tuning and Prompt Engineering for a Small Language Model
 
 > **Master's Thesis** | Soongsil University, Department of AI Techno Convergence | December 2025
-> **Author:** Kim Tae-yeun (김태연) | **Advisor:** Prof. Jin-Hong Jeong (정진홍)
+> **Author:** Kim Tae-yeun (김태연)
 
 ---
 
