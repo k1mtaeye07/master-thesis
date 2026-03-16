@@ -1,0 +1,11 @@
+data/
+models/
+*.csv
+*.jsonl
+*.pt
+*.safetensors
+__pycache__/
+*.pyc
+.env
+*.log
+runs/
